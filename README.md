@@ -9,6 +9,13 @@
 `1.0.0`
 
 交流群：`1101062939`
+## 界面预览
+<img width="1379" height="967" alt="QQ_1788271160116" src="https://github.com/user-attachments/assets/ae11e55c-efc8-4e48-a802-64d8e6268fb5" />
+<img width="1379" height="967" alt="QQ_1788271172074" src="https://github.com/user-attachments/assets/645accf3-8127-415d-b571-310419793923" />
+<img width="1379" height="967" alt="QQ_1788271178719" src="https://github.com/user-attachments/assets/69dae4e3-ddde-46f0-bf54-321f9097022c" />
+<img width="1379" height="967" alt="QQ_1788271190521" src="https://github.com/user-attachments/assets/d0156fa5-0bfd-47e5-96db-00b9110a5663" />
+
+
 
 ## 功能特性
 
