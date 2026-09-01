@@ -9,6 +9,14 @@
 `1.0.0`
 
 交流群：`1101062939`
+
+## 使用说明：
+虎牙远程推流地址:https://i.huya.com/index.php?m=ProfileSetting#ktylts
+
+B站远程推流地址:https://link.bilibili.com/p/center/index?spm_id_from=333.788.0.0#/my-room/start-live
+
+将推流地址上传到程序里 再添加视频文件即可播放
+
 ## 界面预览
 <img width="1379" height="967" alt="QQ_1788271160116" src="https://github.com/user-attachments/assets/ae11e55c-efc8-4e48-a802-64d8e6268fb5" />
 <img width="1379" height="967" alt="QQ_1788271172074" src="https://github.com/user-attachments/assets/645accf3-8127-415d-b571-310419793923" />
