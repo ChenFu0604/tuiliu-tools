@@ -1,0 +1,20 @@
+# Local configuration and possible stream credentials
+挂播工具.config.json
+推流码
+*.log
+
+# Python cache and build output
+__pycache__/
+*.pyc
+build/
+build_*/
+dist/
+dist_*/
+
+# Local media and runtime binaries are published separately in Releases
+*.mp4
+*.mkv
+*.mov
+*.flv
+*.ts
+ffmpeg.exe
